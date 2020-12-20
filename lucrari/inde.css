@@ -1,0 +1,28 @@
+body {
+    background-color: #444444;
+    margin: 0;
+    color: white;
+    font-family: sans-serif;
+}
+
+.constacts ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.constacts .avatar img{
+    height: 3em;
+}
+.constacts .avatar .status{
+    width: 0.4em;
+    height: 0.4em;
+    display: inline-block;
+    border: 1px solid #888;
+    border-radius:0.4em ;
+}
+.constacts img{
+    height: 0.4em;
+    width: 0.5em;
+    display: inline-block;
+    border: 1px;
+}
